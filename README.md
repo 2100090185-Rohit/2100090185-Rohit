@@ -1,8 +1,8 @@
-![image](https://github.com/2100090185-Rohit/2100090185-Rohit/assets/110970990/89be774d-de5b-48de-b571-204eea4e683b)![image](https://github.com/2100090185-Rohit/2100090185-Rohit/assets/110970990/e8a09c82-de64-45df-bfac-dfe137437404)<p align="center">
+<p align="center">
     <img src="https://scontent.fvga5-1.fna.fbcdn.net/v/t39.30808-6/337538638_528074819495158_6363398219877853197_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=joDBHEK8PMsAX-gdFJA&_nc_oc=AQmJpZE3tHZFm-YVhjs_IRg9IN9FTJ4fVHtHpI_Tqk9X8iRAJ3WVMOseam5VhzumX0E&_nc_ht=scontent.fvga5-1.fna&oh=00_AfDZQ7Ri0UlowNcazMA_BlU6pSnz1Q-ExdN0YU07wn-Dtg&oe=6587770C" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit+Kumar....;Nice+to+meet+you!&center=true&size=30">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niranjan+Sah....;Nice+to+meet+you!&center=true&size=30">
      </a>
    </h1>
    </p>
