@@ -2,7 +2,7 @@
     <img src="https://scontent.fvga5-1.fna.fbcdn.net/v/t39.30808-6/337538638_528074819495158_6363398219877853197_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=joDBHEK8PMsAX-gdFJA&_nc_oc=AQmJpZE3tHZFm-YVhjs_IRg9IN9FTJ4fVHtHpI_Tqk9X8iRAJ3WVMOseam5VhzumX0E&_nc_ht=scontent.fvga5-1.fna&oh=00_AfDZQ7Ri0UlowNcazMA_BlU6pSnz1Q-ExdN0YU07wn-Dtg&oe=6587770C" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niranjan+Sah....;Nice+to+meet+you!&center=true&size=30">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit+Kumar....;Nice+to+meet+you!&center=true&size=30">
      </a>
    </h1>
    </p>
@@ -11,7 +11,7 @@
    
    
    
-   <h3 align="center">Full Stack Web Developer and Ethical Hacker</h3>
+   <h3 align="center">Full Stack Web Developer and AI&ML Specialist </h3>
    <p align="center">I am a passionate and dedicated computer science and information technology professional with expertise in C, C++, Java, Python, and Full Stack Development. With an interest in Cyber Security and Web Development.</p>
    
 <div align="center">
