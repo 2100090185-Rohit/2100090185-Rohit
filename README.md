@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGX42AEiyWnxGauYKiZzSXCjC5KQIC60XeLAIYZtzYVMYFZfql1HkUc_5QZ4peiFX31oM&usqp=CAU" alt="Logo" width="200" height="200"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Frohit-kumar-11862a238&psig=AOvVaw2Nhmv8IH036_jOLzP-m39f&ust=1703163634448000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCC7ZCJnoMDFQAAAAAdAAAAABAD" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Niranjan+Sah....;Nice+to+meet+you!&center=true&size=30">
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit+Kumar....;Nice+to+meet+you!&center=true&size=30">
      </a>
    </h1>
    </p>
