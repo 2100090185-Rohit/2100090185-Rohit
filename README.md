@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Frohit-kumar-11862a238&psig=AOvVaw2Nhmv8IH036_jOLzP-m39f&ust=1703163634448000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCC7ZCJnoMDFQAAAAAdAAAAABAD" alt="Logo" width="200" height="200"/>
+    <img src="https://media.licdn.com/dms/image/D5603AQEMX6vxA8xVsA/profile-displayphoto-shrink_800_800/0/1689750521323?e=1708560000&v=beta&t=WOFacbMfzsnTBrOIPdohUgaU9cPyMy5XO62cRJFCwn0" alt="Logo" width="200" height="200"/>
    <h1 align="center">
      <a href="https://git.io/typing-svg">
        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit+Kumar....;Nice+to+meet+you!&center=true&size=30">
