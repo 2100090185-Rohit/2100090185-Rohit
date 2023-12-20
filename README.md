@@ -16,24 +16,24 @@
    
 <div align="center">
 
- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niranjan8790_)
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niranjansah.com.np/)
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-sah/)
-
+ [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008896156056)
+ [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unique_rohit_raj/)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-11862a238/)
 
 </div>
+
    
    
    ## 🚀 About Me
    🔬 I'm currently pursuing B-tech degree in Computer Science and Information technology, at KL University.
    
-   👩‍💻 I'm currently working on django,react js.
+   👩‍💻 I'm currently Learing about AL,ML,DL,NLP and also doing project realted to it. 
    
-   🧠 I'm currently diving into the world of Cybersecurity and Ethical Hacking.
+   🧠 I'm currently diving into the world of Artificial Intelligence.
    
-   💻 I love writing code and learn anythings about it.
+   💻 I love writing AI and learing about it continuously.
    
-   💬 Ask me anything about from <a href="https://www.linkedin.com/in/niranjan-sah/">Here</a>
+   💬 Ask me anything about from <a href="https://www.linkedin.com/in/rohit-kumar-11862a238/">Here</a>
    
    ⚡️ Fun fact...
    
@@ -51,7 +51,6 @@
        <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
        <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
        <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-       <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
    </p>
    
    **🧰 Frameworks and libraries**
@@ -86,13 +85,7 @@
    
    <div width="100%" align="center">
      <a align="left" href="https://github.com/2100090185-Rohit/sih_frontend" title="sih_frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=2100090185-Rohit&repo=sih_frontend&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/niranjansah87/Niranjan-Portfolio-React" title="Niranjan-Portfolio-React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=Niranjan-Portfolio-React&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
-   <br/><br/><br/><br/><br/><br/>
-   <div width="100%" align="center">
-     <a align="left" href="https://github.com/niranjansah87/AutoZ" title="AutoZ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=AutoZ&theme=react&border_color=61dafb&border_radius=10"></a>
-     
-  <a align="right" href="https://github.com/niranjansah87/KLSAMARTHYA" title="KL SAMARTHYA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjansah87&repo=KLSAMARTHYA&theme=react&border_color=61dafb&border_radius=10"></a>
+   
    </div>
    <br><br><br><br><br><br>
    <h4 align="center">
@@ -106,7 +99,7 @@
    <br>
    <hr>
    <p align="center">
-      <i>Success is my only option; failure is not in my vocabulary🏆😎</i>
+      <i>Calm Down! and Focus on your Goal</i>
       <br>
       
    <br>
